@@ -1,0 +1,5 @@
+{
+  "ALLOWED_EMAIL_DOMAIN": "@your-company.com",
+  "ADMIN_EMAIL_1": "admin@your-company.com",
+  "ADMIN_EMAIL_2": "second-admin@your-company.com"
+}
